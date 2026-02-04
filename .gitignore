@@ -1,5 +1,14 @@
-.vscode/
+# WordPress core
+wp-admin/
+wp-includes/
+
+# Config
+wp-config.php
+
+# Uploads
+wp-content/uploads/
+
+# OS & Editor
 node_modules/
 .DS_Store
-Thumbs.db
-dist/
+.vscode/
