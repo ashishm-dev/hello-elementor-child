@@ -4,7 +4,7 @@
     <?php while (have_posts()) : the_post(); ?>
 
         <div class="single-product-wrapper">
-            <div class="product-image">
+            <div class="product-image add">
                 <?php the_post_thumbnail('large'); ?>
             </div>
 
