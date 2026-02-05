@@ -34,7 +34,7 @@
         </div>
 
         <!-- Pagination -->
-        <div class="pagination demo">
+        <div class="pagination adding">
             <?php the_posts_pagination(); ?>
         </div>
 
